@@ -1,7 +1,7 @@
 {
   "name": "git.profile",
   "version": "0.1.0",
-  "homepage": "https://cpt-chewieeee.github.io/cpt-chewieeee.github.io",
+  "homepage": "https://cpt-chewieeee.github.io/my-profile/build/index.html",
   "private": true,
   "dependencies": {
     "react": "^16.2.0",
