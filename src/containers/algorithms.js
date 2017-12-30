@@ -1,8 +1,10 @@
 import React from 'react'
-
+import AlgorithmComp from '../components/algorithms/dfs'
 const Algorithms = (props) => {
   return (
-    <div>im in algorithms</div>
+    <div>
+      <AlgorithmComp />
+    </div>
   )
 }
 
